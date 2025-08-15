@@ -42,5 +42,7 @@ Item: Coffee
 Price: 20
 
 Quantity: 3
+
 Total: 60
+
 Thank You for ordering from us
