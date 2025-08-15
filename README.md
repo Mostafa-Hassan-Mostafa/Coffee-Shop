@@ -15,6 +15,7 @@
 Example:
 
 Welcome to our Coffee-Shop , What would you like to drink ?
+
  1.Tea   15 Le
  2.Coffee   20 Le
  3.Nescafe   25 Le
@@ -24,10 +25,12 @@ Welcome to our Coffee-Shop , What would you like to drink ?
  7.Water   10 Le
 
 Choose Drink number (1,2,3,4,5,6,7) from the menu: 2
+
 Enter Item Quantity: 3
 
                 Receipt                       
-              Date:19/12/2024           
+              Date:19/12/2024  
+         
 Item: Coffee
 Price: 20
 Quantity: 3
