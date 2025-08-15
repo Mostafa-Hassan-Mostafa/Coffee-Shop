@@ -1,48 +1,55 @@
-# Coffee Shop Ordering System
+<!-- Animated Header -->
+<h1 align="center">☕ Coffee Shop Ordering System</h1>
+<h3 align="center">Python Console-Based Menu & Billing Program</h3>
 
-☕ A simple Python-based coffee shop ordering system that allows users to select drinks from a menu, specify quantities, and automatically generates a detailed receipt with prices, totals, and a thank-you message.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=795548&center=true&vCenter=true&width=600&lines=Menu+Display;Order+Selection;Price+Calculation;Receipt+Generation" alt="Typing Animation" />
+</p>
+
+---
+
+## 📖 Project Overview
+A simple **Python console application** that simulates a coffee shop ordering process.  
+The program displays a menu, allows the user to select a product, and generates a bill with the total price.
+
+> 📌 Perfect for practicing **basic Python programming**, **conditional statements**, and **user input handling**.
 
 ---
 
-## Features
-- Display a coffee shop menu with prices.
-- Accept user input for drink selection.
-- Handle multiple drink options including Tea, Coffee, Latte, and more.
-- Calculate total price based on quantity.
-- Display a formatted receipt with order details.
+## 🛠 Tools & Skills Used
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLI%20Application-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Basic%20Programming-2196F3?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</p>
 
 ---
-Example:
 
-Welcome to our Coffee-Shop , What would you like to drink ?
+## ✨ Features
+- Displays a coffee shop menu.
+- Accepts user order choice.
+- Calculates total bill.
+- Simple, beginner-friendly structure.
 
- 1.Tea   15 Le
+---
 
- 2.Coffee   20 Le
- 
- 3.Nescafe   25 Le
- 
- 4.Latte   30 Le
- 
- 5.Anise   20 Le
- 
- 6.Mint   20 Le
- 
- 7.Water   10 Le
+## 🖥 Example Usage
 
-Choose Drink number (1,2,3,4,5,6,7) from the menu: 2
+Coffee Shop Menu
 
-Enter Item Quantity: 3
+Espresso - $3.00
 
-                Receipt                       
-              Date:19/12/2024  
-         
-Item: Coffee
+Cappuccino - $4.50
 
-Price: 20
+Latte - $5.00
 
-Quantity: 3
+Choose your coffee number (1, 2, or 3): 2
 
-Total: 60
+Enter quantity: 2
 
-Thank You for ordering from us
+Your order: Cappuccino x 2
+
+Total Price: $9.00
+
+Thank you for visiting our coffee shop!
