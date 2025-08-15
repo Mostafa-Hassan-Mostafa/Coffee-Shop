@@ -12,14 +12,8 @@
 - Display a formatted receipt with order details.
 
 ---
-
-## How to Run
-1. Install **Python 3**.
-2. Download the script `Coffee-Shop.py`.
-3. Open terminal or command prompt and run:
-   ```bash
-   python Coffee-Shop.py
 Example:
+
 Welcome to our Coffee-Shop , What would you like to drink ?
  1.Tea   15 Le
  2.Coffee   20 Le
